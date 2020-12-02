@@ -4,6 +4,8 @@ This application uses all the new features introduced in EcmaScript 6. The appli
 
 ## How Can I Start?
 
+Simply clone the repo on you local system and then run these commands.
+
 <pre>npm install</pre>
 
 then
